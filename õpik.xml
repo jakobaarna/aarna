@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<õpik nimi="loodusõpetus" aasta="2013">
+	<aotorid>
+		<autor nimi="kale sirel" />
+	</aotorid>
+	<klasid>
+		<klass tase="3" />
+	</klasid>
+	<osad>
+		<osa it="1" />
+	</osad>
+	<kiriastused>
+		<kiriastus nimi="koolibri" />
+	</kiriastused>
+	<peatükid>
+		<peatük nimi="loomad">Rästik siugleb.</peatük>
+		<peatük nimi="linnud">Linnud ja roomajad munevad. </peatük>
+		<peatük nimi="taimed">Mile polest on samblad tähtsad.</peatük>
+	</peatükid>
+</õpik>
